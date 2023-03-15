@@ -21,5 +21,5 @@ window:
 	It is the very first object that is loaded in the browser.
 	It is the object of the browser.
 	Global objects, functions, and variables of JavaScript are members of the window object.
- document	We can access the window from the window only. i.e. window.window
+ document	We can access the window from the window only. 
 
